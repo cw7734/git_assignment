@@ -16,7 +16,6 @@ The Git workflow involving a remote repository consists of the following steps:
    and be able to access them yourself on a different computer.
 7. Continue at step 1.
 
-
 Unlike centralized version control systems, git users can commit new changes, 
 without the need of an internet connection. They can work offline and then later
 push batches of commits at once to a server - like GitHub or Bitbucket.
