@@ -1,0 +1,73 @@
+    1  ipython notebook
+    2  cd Desktop/
+    3  cd CMSC6950/
+    4  LS
+    5  ls -l
+    6  open
+    7  cd DATA/
+    8  ls -l
+    9  cd 
+   10  cd ..
+   11  cd -
+   12  close
+   13  exit
+   14  jupyter-notebook
+   15  cd
+   16  cd Desktop/CMSC6950/
+   17  clear
+   18  cd
+   19  cd Desktop/CMSC6950/
+   20  jupyter-notebook.exe 
+   21  exit
+   22  jupyter-notebook.exe 
+   23  cd Desktop/
+   24  git config user.name
+   25  git config user.email
+   26  mkdir cmsc_git_assignment
+   27  cd cmsc_git_assignment/
+   28  git init
+   29  nano README.md
+   30  git add README.md 
+   31  git commit -m "Add first paragraph"
+   32  git status
+   33  git log
+   34  nano README.md 
+   35  git add README.md 
+   36  git commit -m "Add second paragraph"
+   37  git chechout -b my_branch
+   38  git checkout -b my branch
+   39  git checkout -b my_branch
+   40  git branch
+   41  git checkout my_branch
+   42  nano README.md 
+   43  git add README.md 
+   44  git commit -m "Add third paragraph"
+   45  nano README.md 
+   46  git add README.md 
+   47  git commit -m "Expanded Git workflow"
+   48  git status
+   49  git log
+   50  git checkout master 
+   51  nano README.md 
+   52  git add README.md 
+   53  git commit -m "Wording:database/repository"
+   54  git merge my_branch 
+   55  git status
+   56  nano README.md 
+   57  git add README.md 
+   58  git commit -m "slove conflict"
+   59  git merge my_branch 
+   60  git log --oneline --graph --all
+   61  git branch
+   62  git merge my_branch 
+   63  git log --oneline --graph --all
+   64  nano README.md 
+   65  git status
+   66  git add README.md 
+   67  git commit -m "Merge branch 'my_branch'"
+   68  git log --oneline --graph --all
+   69  git remote add origin https://github.com/cw7734/git_assignment-.git
+   70  git push -u origin --all
+   71  history -> assignment_4_cw7734.txt
+   72  history > assignment_4_cw7734.txt
+   73  history > assignment_4_cw7734.data
